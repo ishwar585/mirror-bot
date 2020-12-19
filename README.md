@@ -87,7 +87,7 @@ python3 generate_telegraph_token.py
 - **OWNER_ID** : The Telegram user ID (not username) of the owner of the bot.
 - **AUTO_DELETE_MESSAGE_DURATION** : Interval of time (in seconds), after which the bot deletes it's message (and command message) which is expected to be viewed instantly. Note: Set to -1 to never automatically delete messages
 - **IS_TEAM_DRIVE** : Set to ```True``` if GDRIVE_FOLDER_ID is from a Team Drive else set it to ```false```.
-- **INDEX_URL** : (Optional field) Refer to <p>Check out <a href="https://github.com/maple3142/GDIndex/" target="_blank" rel="noopener noreferrer">Index URL</a>.</p> (Remove ```/``` from the end of URL. For eg: google.com ~/~ )
+- **INDEX_URL** : (Optional field) Enter your Index URL or refer to <a href="https://github.com/maple3142/GDIndex/" target="_blank">Index URL</a> to create one. (Remove ```/``` from the end of URL. For eg: google.com ~/~ )
 - **API_KEY** : This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.
 - **API_HASH** : This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org
 - **USER_SESSION_STRING** : Generate String session by [clicking here](https://generatestringsession.magneto261290.repl.run/) **OR** you can generate by running :
